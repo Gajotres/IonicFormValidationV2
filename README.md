@@ -7,6 +7,6 @@ Follow these instruction to deploy this example:
 3. ionic cordova platform add browser
 4. npm install
 5. ionic serve -> To see if everything is working as it should
-6. ionic cordova run browser -l -c -s
+6. ionic cordova run browser
 
 An old version of this tutorial (Ionic 2-3) can be found here: https://github.com/Gajotres/IonicFormValidation.git
